@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
 	const socialLinks = [
 		{
 			name: "GitHub",
-			href: "https://github.com/Er-luffy-D/SimplifAI",
+			href: "https://github.com/Er-luffy-D/StudyLens-AI",
 			icon: Github,
 		},
 		{
@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
 		},
 		{
 			name: "Email",
-			href: "mailto:contact@simplifai.com",
+			href: "mailto:contact@StudyLens-AI.com",
 			icon: Mail,
 		},
 	];
@@ -51,7 +51,7 @@ const Footer: React.FC = () => {
 							<div className="w-8 h-8 bg-gradient-purple-pink rounded-lg flex items-center justify-center">
 								<span className="text-white font-bold text-sm">S</span>
 							</div>
-							<h3 className="text-xl font-bold text-gradient-purple-pink">SimplifAI</h3>
+							<h3 className="text-xl font-bold text-gradient-purple-pink">StudyLens-AI</h3>
 						</div>
 						<p className="text-muted-foreground max-w-md mb-4">
 							Transform your documents into flashcards, summaries, and quizzes with AI. 
@@ -101,10 +101,10 @@ const Footer: React.FC = () => {
 						<div className="mt-4">
 							<p className="text-sm text-muted-foreground mb-2">Get in touch:</p>
 							<Link
-								href="mailto:contact@simplifai.com"
+								href="mailto:contact@StudyLens-AI.com"
 								className="text-sm text-muted-foreground hover:text-foreground transition-colors"
 							>
-								contact@simplifai.com
+								contact@StudyLens-AI.com
 							</Link>
 						</div>
 					</div>
@@ -115,7 +115,7 @@ const Footer: React.FC = () => {
 				{/* Bottom Section */}
 				<div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
 					<div className="text-sm text-muted-foreground">
-						© {currentYear} SimplifAI. All rights reserved.
+						© {currentYear} StudyLens-AI. All rights reserved.
 					</div>
 					<div className="flex items-center space-x-6 text-sm text-muted-foreground">
 						<Link href="/privacy" className="hover:text-foreground transition-colors">

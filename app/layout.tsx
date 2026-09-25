@@ -15,7 +15,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "Simplifai - AI-Powered Learning",
+	title: "StudyLens-AI - AI-Powered Learning",
 	description: "Transform your documents into flashcards, summaries, and quizzes with AI",
 };
 

@@ -27,7 +27,7 @@ export default function MobileMenu({ onClose }: { onClose: () => void }) {
 				<div className="bg-gray-950/95 border border-gray-800 shadow-2xl rounded-2xl w-72 max-w-[90vw] p-0 animate-fade-in">
 					<div className="flex items-center justify-between px-5 py-4 border-b border-gray-800">
 						<span className="text-xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-							Simplifai
+							StudyLens-AI
 						</span>
 						<button
 							aria-label="Close Menu"

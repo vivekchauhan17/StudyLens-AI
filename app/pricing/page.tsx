@@ -135,13 +135,13 @@ export default function PricingPage() {
 							href="/"
 							className="text-2xl hidden md:flex font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent"
 						>
-							Simplifai
+							StudyLens-AI
 						</Link>
 						<div
 							className="text-2xl md:hidden font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent"
 							onClick={() => setMenuOpen(!menuOpen)}
 						>
-							Simplifai
+							StudyLens-AI
 						</div>
 
 						{/* Mobile Menu - Pass the onClose handler */}
@@ -360,7 +360,7 @@ export default function PricingPage() {
 						<div className="relative z-10">
 							<h2 className="text-4xl font-bold mb-6" data-animate="text-reveal">Ready to Transform Your Learning?</h2>
 							<p className="text-xl text-gray-400 mb-10 max-w-2xl mx-auto leading-relaxed" data-animate="fade-up">
-								Join thousands of learners who are already using Simplifai to accelerate their education and achieve
+								Join thousands of learners who are already using StudyLens-AI to accelerate their education and achieve
 								their goals faster.
 							</p>
 							<div className="flex flex-col sm:flex-row gap-4 justify-center" data-animate="stagger">

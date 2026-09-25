@@ -13,7 +13,7 @@ export default function AboutPage() {
 	const [menuOpen, setMenuOpen] = useState(false);
 	const team = [
 		{
-			name: "Piyush Dixit",
+			name: "Team Binary Minds",
 			role: "Full Stack Developer",
 			bio: "A Developer, passionate about building scalable web applications. Can debug code faster than you can say 'GG', and occasionally dreams in Binary. Fueled by anime,coffee, memes, and the thrill of deploying to production on Fridays.",
 			gradient: "from-purple-500 to-pink-500",
@@ -97,13 +97,13 @@ export default function AboutPage() {
 							href="/"
 							className="text-2xl  hidden md:flex font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent"
 						>
-							Simplifai
+							StudyLens-AI
 						</Link>
 						<div
 							className="text-2xl md:hidden  font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent"
 							onClick={() => setMenuOpen(!menuOpen)}
 						>
-							Simplifai
+							StudyLens-AI
 						</div>
 						{menuOpen && <MobileMenu onClose={() => setMenuOpen(false)} />}
 
@@ -257,7 +257,7 @@ export default function AboutPage() {
 								</div>
 								<h3 className="text-2xl font-bold mb-6" data-animate="text-reveal">Powered by Curiosity</h3>
 								<p className="text-white/80 leading-relaxed" data-animate="fade-up">
-									SimplifAI was born out of a simple idea: to make learning easier, faster, and more enjoyable for
+									StudyLens-AI was born out of a simple idea: to make learning easier, faster, and more enjoyable for
 									everyone.
 								</p>
 							</CardContent>
@@ -367,7 +367,7 @@ export default function AboutPage() {
 				<div className="text-center mb-16">
 					<h2 className="text-4xl font-bold mb-6" data-animate="text-reveal">Meet Our Team</h2>
 					<p className="text-xl text-gray-400 max-w-2xl mx-auto" data-animate="fade-up">
-						The brilliant minds behind Simplifai&apos;s innovation
+						The brilliant minds behind StudyLens-AI&apos;s innovation
 					</p>
 				</div>
 
@@ -414,7 +414,7 @@ export default function AboutPage() {
 								<MagneticButton
 									size="lg"
 									className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-semibold px-8 py-4 h-auto shadow-lg shadow-purple-500/25"
-									onClick={() => window.open("https://simplif-ai-xi.vercel.app/", "_blank")}
+									onClick={() => window.open("https://StudyLens-AI-ai-xi.vercel.app/", "_blank")}
 									cursorText="Start Learning"
 								>
 									Start Learning Today

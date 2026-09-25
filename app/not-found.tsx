@@ -126,7 +126,7 @@ export default function NotFound() {
 										→ About us
 									</Link>
 									<Link
-										href="https://github.com/Er-luffy-d/Simplifai"
+										href="https://github.com/Er-luffy-d/StudyLens-AI"
 										className="block text-sm text-zinc-400 hover:text-purple-400 transition-colors"
 									>
 										→ Github
