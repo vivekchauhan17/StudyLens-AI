@@ -139,8 +139,6 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) (or open an issue to discuss your 
 
 ---
 
-## 🐳 Run Locally with Docker
-
 ### 1. Clone the Repository
 
 ```bash
