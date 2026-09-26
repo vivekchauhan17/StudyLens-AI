@@ -53,7 +53,7 @@ Whether you’re a student, teacher, or lifelong learner, StudyLens-AI makes lea
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Er-luffy-D/StudyLens-AI.git
+git clone https://github.com/vivekchauhan17/StudyLens-AI.git
 cd StudyLens-AI
 ```
 

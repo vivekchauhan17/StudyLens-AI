@@ -229,7 +229,7 @@ export default function AboutPage() {
 						</div>
 						<MagneticButton
 							className="mt-8 bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-semibold px-8 py-4 h-auto shadow-lg shadow-purple-500/25"
-							onClick={() => window.open("https://github.com/Er-luffy-d")}
+							onClick={() => window.open("https://github.com/vivekchauhan17/StudyLens-AI")}
 							cursorText="Github"
 							data-animate="scale-in"
 						>
