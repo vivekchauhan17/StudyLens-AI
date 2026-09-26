@@ -24,7 +24,7 @@ export default function PrivacyPage() {
 							<span className={pointBadgeClass}>1</span> Data Collection
 						</h2>
 						<p className="leading-7 mt-4">
-							At <strong>SimplifAI</strong>, we respect your privacy and are
+							At <strong>StudyLens-AI</strong>, we respect your privacy and are
 							committed to safeguarding your personal information. We collect
 							only the minimal data required to deliver our AI-powered learning
 							services and improve user experience.
@@ -63,8 +63,8 @@ export default function PrivacyPage() {
 							You have the right to request access to, correction of, or
 							deletion of your personal data. For any privacy-related concerns,
 							you can contact our support team at{" "}
-							<a href="mailto:support@simplifai.com" className="underline">
-								support@simplifai.com
+							<a href="mailto:support@StudyLens-AI.com" className="underline">
+								support@StudyLens-AI.com
 							</a>
 							.
 						</p>

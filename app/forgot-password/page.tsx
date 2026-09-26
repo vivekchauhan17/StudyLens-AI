@@ -50,7 +50,7 @@ export default function ForgotPasswordPage() {
 				<div className="text-center mb-8">
 					<Link href="/" className="inline-block mb-6">
 						<span className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-							Simplifai
+							StudyLens-AI
 						</span>
 					</Link>
 				</div>

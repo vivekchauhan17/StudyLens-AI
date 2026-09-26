@@ -16,7 +16,7 @@ export function HeroSection() {
 				
 
 				<h1 className="text-[40px] font-extrabold tracking-tight sm:text-5xl md:text-6xl animate-fade-in-up">
-					Simplify your learning with <span className="text-gradient-purple-pink">Simplifai</span>
+					StudyLens-AI your learning with <span className="text-gradient-purple-pink">StudyLens-AI</span>
 				</h1>
 
 				<p className="max-w-2xl mx-auto mt-6 text-xl text-muted-foreground animate-fade-in-up animation-delay-200">

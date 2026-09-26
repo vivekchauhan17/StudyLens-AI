@@ -7,7 +7,7 @@ export function LoaderScreen() {
 			<div className="flex items-center space-x-3 animate-fade-in-up">
 				<Loader2 className="w-10 h-10 text-purple-500 animate-spin" />
 				<span className="text-3xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-					Simplifai
+					StudyLens-AI
 				</span>
 				<Sparkles className="w-8 h-8 text-pink-400 animate-bounce-slow ml-2" />
 			</div>

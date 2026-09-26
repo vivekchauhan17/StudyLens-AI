@@ -11,7 +11,7 @@ export default function TermsPage() {
 			title: "Acceptance of Terms",
 			content: (
 				<p className="leading-7 mt-4">
-					By accessing or using <strong>SimplifAI</strong> (“the Service”), you
+					By accessing or using <strong>StudyLens-AI</strong> (“the Service”), you
 					agree to be bound by these Terms & Conditions and our{" "}
 					<a href="/privacy-policy" className="underline">
 						Privacy Policy
@@ -24,7 +24,7 @@ export default function TermsPage() {
 			title: "Description of Service",
 			content: (
 				<p className="leading-7 mt-4">
-					SimplifAI is an AI-powered platform designed to help you transform
+					StudyLens-AI is an AI-powered platform designed to help you transform
 					documents into learning materials. The Service is provided for lawful
 					purposes only and is subject to change or discontinuation at our
 					discretion.
@@ -47,7 +47,7 @@ export default function TermsPage() {
 				<p className="leading-7 mt-4">
 					All intellectual property related to the Service, including but not
 					limited to software, design, branding, and AI models, is owned by
-					SimplifAI or its licensors. You may not reproduce, distribute, or
+					StudyLens-AI or its licensors. You may not reproduce, distribute, or
 					modify any part of the Service without prior written consent.
 				</p>
 			),
@@ -58,7 +58,7 @@ export default function TermsPage() {
 				<p className="leading-7 mt-4">
 					AI-generated outputs may not always be accurate, complete, or
 					up-to-date. You should independently verify information before relying
-					on it. SimplifAI is not responsible for any decisions made based on
+					on it. StudyLens-AI is not responsible for any decisions made based on
 					AI-generated content.
 				</p>
 			),
@@ -68,7 +68,7 @@ export default function TermsPage() {
 			content: (
 				<p className="leading-7 mt-4">
 					The Service is provided “as is” without any warranties. To the maximum
-					extent permitted by law, SimplifAI shall not be liable for any damages
+					extent permitted by law, StudyLens-AI shall not be liable for any damages
 					arising from your use of the Service.
 				</p>
 			),
@@ -107,8 +107,8 @@ export default function TermsPage() {
 			content: (
 				<p className="leading-7 mt-4">
 					If you have any questions about these Terms, please contact us at{" "}
-					<a href="mailto:contact@simplifai.com" className="underline">
-						contact@simplifai.com
+					<a href="mailto:contact@StudyLens-AI.com" className="underline">
+						contact@StudyLens-AI.com
 					</a>
 					.
 				</p>
