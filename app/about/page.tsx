@@ -423,7 +423,7 @@ export default function AboutPage() {
 									size="lg"
 									variant="outline"
 									className="border-gray-600 text-gray-300 hover:bg-gray-800 hover:border-gray-500 px-8 py-4 h-auto"
-									onClick={() => window.open("https://linkedin.com/in/piyushdixitizme", "_blank")}
+									onClick={() => window.open("https://www.linkedin.com/in/vivekchauhan17/", "_blank")}
 									cursorText="Connect"
 								>
 									Connect

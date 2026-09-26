@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
 	const socialLinks = [
 		{
 			name: "GitHub",
-			href: "https://github.com/Er-luffy-D/StudyLens-AI",
+			href: "https://github.com/vivekchauhan17/StudyLens-AI",
 			icon: Github,
 		},
 		{
@@ -28,12 +28,12 @@ const Footer: React.FC = () => {
 		},
 		{
 			name: "LinkedIn",
-			href: "https://linkedin.com",
+			href: "https://www.linkedin.com/in/vivekchauhan17/",
 			icon: Linkedin,
 		},
 		{
 			name: "Email",
-			href: "mailto:contact@StudyLens-AI.com",
+			href: "mailto:chauhanvivek9639@gmail.com",
 			icon: Mail,
 		},
 	];
@@ -101,7 +101,7 @@ const Footer: React.FC = () => {
 						<div className="mt-4">
 							<p className="text-sm text-muted-foreground mb-2">Get in touch:</p>
 							<Link
-								href="mailto:contact@StudyLens-AI.com"
+								href="mailto:chauhanvivek9639@gmail.com"
 								className="text-sm text-muted-foreground hover:text-foreground transition-colors"
 							>
 								contact@StudyLens-AI.com
