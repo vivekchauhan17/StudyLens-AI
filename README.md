@@ -15,14 +15,14 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
   - [ Why StudyLens-AI?](#-why-StudyLens-AI)
   - [ Roadmap](#️-roadmap)
   - [ Contributing](#-contributing)
-  - [🧑 Author](#-author)
+  - [ Author](#-author)
   - [ Star this repo if you like it!](#️-star-this-repo-if-you-like-it)
 
 </details>
 
 ---
 
-## ✨ What is StudyLens-AI?
+##  What is StudyLens-AI?
 
 StudyLens-AI is an open-source, AI-powered platform that revolutionizes learning by turning your documents (PDF, TXT) into concise summaries, interactive flashcards, and quizzes—instantly.
 
