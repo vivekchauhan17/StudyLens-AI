@@ -15,10 +15,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
   - [ Why StudyLens-AI?](#-why-StudyLens-AI)
   - [ Roadmap](#️-roadmap)
   - [ Contributing](#-contributing)
-  - [🧑‍💻 Author](#-author)
-  - [🐳 Run Locally with Docker](#-run-locally-with-docker)
-  - [📄 License](#-license)
-  - [⭐️ Star this repo if you like it!](#️-star-this-repo-if-you-like-it)
+  - [🧑 Author](#-author)
+  - [ Star this repo if you like it!](#️-star-this-repo-if-you-like-it)
 
 </details>
 
