@@ -1,4 +1,4 @@
-# StudyLens-AI 🚀
+# StudyLens-AI 
 
 **AI-Powered Learning Platform**  
 Transform your documents into flashcards, summaries, and quizzes with cutting-edge AI.
