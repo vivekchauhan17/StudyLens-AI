@@ -34,7 +34,7 @@ Whether you’re a student, teacher, or lifelong learner, StudyLens-AI makes lea
 
 ---
 
-## 🌟 Features
+## Features
 
 - **Smart Flashcards**: Instantly generate flashcards from your document content
 - **Concise Summaries**: Get the main points and key insights without reading the whole document
@@ -46,7 +46,7 @@ Whether you’re a student, teacher, or lifelong learner, StudyLens-AI makes lea
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -66,7 +66,7 @@ npm install
 Copy `.env.example` to `.env` and fill in the required secrets:
 
 ```env
-# 🔐 AI Configuration
+#  AI Configuration
 AI_API_KEY="your_openrouter_or_deepseek_api_key"
 NEXT_PUBLIC_AI_URL="https://openrouter.ai/api/v1/chat/completions"
 NEXT_PUBLIC_BACKEND_URL="http://localhost:3000"
