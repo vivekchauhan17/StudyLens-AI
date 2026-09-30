@@ -9,7 +9,6 @@ export default async function DocsProcessedServer() {
     },
   })
 
- 
   const grouped: Record<string, { total: number; success: number; pending: number }> = {}
 
   docs.forEach(doc => {
