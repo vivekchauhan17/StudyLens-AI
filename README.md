@@ -71,7 +71,7 @@ AI_API_KEY="your_openrouter_or_deepseek_api_key"
 NEXT_PUBLIC_AI_URL="https://openrouter.ai/api/v1/chat/completions"
 NEXT_PUBLIC_BACKEND_URL="http://localhost:3000"
 
-# 🔐 Auth Configuration
+# Auth Configuration
 AUTH_SECRET="your_random_auth_secret"
 GOOGLE_CLIENT_ID="your_google_oauth_client_id"
 GOOGLE_CLIENT_SECRET="your_google_oauth_client_secret"
