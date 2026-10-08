@@ -76,7 +76,7 @@ AUTH_SECRET="your_random_auth_secret"
 GOOGLE_CLIENT_ID="your_google_oauth_client_id"
 GOOGLE_CLIENT_SECRET="your_google_oauth_client_secret"
 
-# 🗄️ Database
+# Database
 
 DATABASE_URL="postgresql://username:password@host:port/dbname" 
 DIRECT_URL="postgresql://username:password@host:port/dbname"    
