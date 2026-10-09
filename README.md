@@ -7,7 +7,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 <details>
   <summary><strong>📑 Table of Contents</strong></summary>
 
-  - [✨ What is StudyLens-AI?](#-what-is-StudyLens-AI)
+  - [ What is StudyLens-AI?](#-what-is-StudyLens-AI)
   - [ Features](#-features)
   - [ Screenshots](#️-screenshots)
   - [ Getting Started](#-getting-started)
