@@ -35,7 +35,9 @@ export const authOptions: NextAuthOptions = {
       clientSecret: process.env.GOOGLE_CLIENT_SECRET!,
       allowDangerousEmailAccountLinking: true,
     }),
+
   ],
+  
   callbacks: {
     async jwt({ token, user }) {
       if (user) token.id = user.id;
@@ -62,6 +64,7 @@ export const authOptions: NextAuthOptions = {
       return true;
     },
   },
+
   pages: {
     signIn: "/signin",
     error: "/signin",
